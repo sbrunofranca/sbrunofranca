@@ -146,46 +146,6 @@ Em essência, o projeto mostra como transformar IA em **sistemas operacionais de
 
 ---
 
-## 💡 Principais Projetos
-
-### 🧠 **Agent Assist Copilot** (RAG + Groq + Streamlit)
-
-Assistente inteligente para suporte ao cliente que reduz carga de tickets humanos.
-
-**Stack:**
-- RAG com base de conhecimento interna
-- LLM (Groq + LLaMA 3.1)
-- Interface em Streamlit
-- Pipeline modular em Python
-
-**Impacto:** -30% custos de suporte, +25% CSAT
-
----
-
-## 🎓 Metodologia
-
-Cada projeto segue o ciclo completo de produto:
-
-```
-1️⃣ Discovery  → Entender o problema real
-2️⃣ Ideation   → Design de solução com IA
-3️⃣ Build      → MVP com LLMs/Agents
-4️⃣ Validate   → Teste com usuários reais
-5️⃣ Scale      → Deploy em produção
-```
-
----
-
-## 🔮 O Que Vem Depois
-
-🚀 **Em desenvolvimento:**
-- Sistemas de orquestração de agentes em escala
-- Frameworks de RAG otimizados para produção
-- Multi-agent workflows com reasoning avançado
-- Plataforma de analytics em tempo real
-
----
-
 ## 📞 Vamos Conversar?
 
 Interessado em:
