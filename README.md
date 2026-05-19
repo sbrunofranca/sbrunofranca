@@ -85,16 +85,28 @@ Uso de copilots para atendimento, resolução automatizada de demandas e anális
 ---
 
 ### 📌 **AI Products Suite**
-Copilots inteligentes prontos para produção
 
-#### 🚚 **Supply Chain Intelligence**
-- AI Demand Planner (Forecasting + Analytics)
-- Autonomous Supply Chain AI (Multi-agent orchestration)
-- Supply Chain Copilot (Real-time optimization)
 
-#### 🎧 **Enterprise Solutions**
-- Agent Assist Copilot (RAG + Real-time support)
-- Analytics AI Copilot (SQL generation + insights)
+## 🧠 Resumo do Projeto
+
+O **AI Products** é um portfólio de engenharia de produtos de Inteligência Artificial que demonstra como construir sistemas end-to-end baseados em LLMs, Machine Learning e arquitetura de software moderna.
+
+O foco não está em modelos isolados, mas em **produtos de IA em produção**, desenhados para resolver problemas reais de negócio através da integração entre linguagem natural, dados e automação de decisões.
+
+O repositório explora como LLMs podem atuar como uma camada de interface entre usuário e sistemas, permitindo:
+- interpretação de linguagem natural,
+- automação de workflows complexos,
+- geração de insights e decisões orientadas a dados,
+- e orquestração de sistemas híbridos (LLMs + ML + regras).
+
+Além disso, demonstra padrões de **AI Product Engineering**, incluindo:
+- arquitetura modular e escalável,
+- sistemas conversacionais e agentes,
+- pipelines de RAG e integração com bases de conhecimento,
+- e mindset de produção com observabilidade, fallback e confiabilidade.
+
+Em essência, o projeto mostra como transformar IA em **sistemas operacionais de produto**, e não apenas em modelos ou demos.
+
 
 📍 [portfolio-ai-products](https://github.com/sbrunofranca/portfolio-ai-products)
 
