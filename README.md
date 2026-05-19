@@ -67,31 +67,20 @@ Este projeto explora como a IA generativa pode ser integrada ao ciclo de desenvo
 
 O objetivo é entender como sistemas baseados em IA podem estruturar, conectar e automatizar etapas de processos de negócio, reduzindo fricção operacional e aumentando eficiência ao longo do ciclo de produto.
 
+📍 [portfolio-ai-product-development](https://github.com/sbrunofranca/portfolio-ai-product-development)
+
 ---
 
-## 🧩 Aplicações em Domínios Operacionais
+#### 🧩 Aplicações em Domínios Operacionais
 
 Embora o foco seja produto, os princípios podem ser aplicados em diferentes contextos:
 
-### 📦 Supply Chain
+##### 📦 Supply Chain
 Automação de planejamento de demanda, gestão de exceções e suporte à tomada de decisão operacional.
 
-### 🎧 Customer Operations
+##### 🎧 Customer Operations
 Uso de copilots para atendimento, resolução automatizada de demandas e análise de qualidade de interação.
 
----
-
-## 🧠 Objetivo do Projeto
-
-Investigar como desenhar sistemas de IA capazes de:
-
-- estruturar e manter contexto ao longo de fluxos de trabalho
-- reduzir dependência de execução manual em processos complexos
-- transformar conhecimento operacional em automação inteligente
-- conectar produto, dados e IA em um único sistema integrado
-
-
-📍 [portfolio-ai-product-development](https://github.com/sbrunofranca/portfolio-ai-product-development)
 
 ---
 
