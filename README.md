@@ -23,72 +23,49 @@ Possuo experiência prática em AI Agents, Prompt Engineering, LLMs e produtos c
   “IA só faz sentido quando resolve um problema <strong>REAL</strong> e gera impacto <strong>MENSURÁVEL</strong>. 
 </blockquote>
 
----
-
-## 🎯 O que Faço
-
-Conecto **três mundos**:
-
-```
-┌─────────────────────────────────────────────────────┐
-│   Problemas de Negócio Reais                        │
-│          ↓                                           │
-│   Decisões Baseadas em Dados (SQL, Python, etc)    │
-│          ↓                                           │
-│   Implementação com LLMs, RAG & Agentes            │
-│          ↓                                           │
-│   Experiência Funcional para Usuários               │
-└─────────────────────────────────────────────────────┘
-```
 
 ---
 
 ## 💪 Minhas Competências
 
-### **🧠 AI & Machine Learning**
-- IA Generativa (Claude, LLaMA, GPT)
-- Sistemas de Agentes Autônomos
-- RAG (Retrieval-Augmented Generation)
-- Fine-tuning e prompt engineering
 
-### **📊 Product & Analytics**
-- Product discovery & roadmapping
-- SQL, Python, BigQuery, Looker
-- Data-driven decision making
-- Product-market fit validation
+### 🎯 Produto
+- Product discovery orientado a hipóteses, dados e problemas reais de usuário
+- Definição e priorização de backlog com base em impacto, risco e esforço
+- Construção de OKRs e métricas de sucesso conectadas a outcomes de produto e negócio
+- Desenvolvimento de roadmaps estratégicos com foco em impacto e escalabilidade
+- Gestão de ciclo completo de produto (discovery → delivery → validação → evolução)
 
-### **🏗️ Engenharia & Implementação**
-- Python, FastAPI, Streamlit
-- TypeScript, Node.js
-- Cloud deployment (GCP, AWS)
-- MLOps & monitoring
+### 💼 Business Impact
+- Estruturação de business cases com base em ROI e impacto incremental
+- Tradução de oportunidades de negócio em soluções de produto escaláveis
+- Estratégia de produto orientada a crescimento, retenção e eficiência operacional
+- Gestão de stakeholders em ambientes complexos (produto, tech, dados e operações)
+- Avaliação de trade-offs entre impacto de negócio, custo e complexidade de entrega
 
-### **🎯 Business Impact**
-- ROI analysis
-- User research & interviews
-- Go-to-market strategy
-- Scaling products
+### 🧠 Engenharia , AI & Machine Learning
+- Construção de produtos com IA generativa (GPT, Claude, LLaMA)
+- Design e implementação de agentes de IA para automação de fluxos
+- Arquiteturas com RAG (Retrieval-Augmented Generation)
+- Prompt engineering aplicado a casos reais de produto
+- Desenvolvimento de POCs com LLMs para validação rápida de hipóteses
+
+### 📊 Analytics
+- Definição de métricas de produto (KPIs, OKRs) orientadas a resultados de negócio
+- Análise de funil, retenção, conversão e engajamento de usuários
+- SQL, Python e BigQuery para análise e exploração de dados
+- Construção de dashboards de produto (Looker)
+- Experimentação e validação de hipóteses com A/B testing
 
 ---
 
 ## 🗂️ Meus Projetos
 
 ### 📌 **AI Product Development**
-Mais do que um framework técnico, este projeto representa uma visão sobre como a IA Generativa está transformando a forma como empresas operam, tomam decisões e constroem produtos.
-
-A IA deixou de ser apenas uma interface conversacional.  
-Ela está se tornando uma nova camada operacional dentro das organizações.
-
-O objetivo deste framework é explorar como workflows complexos podem ser parcialmente automatizados através de sistemas baseados em IA.
+Este projeto foi concebido a partir do ciclo de desenvolvimento de produto, explorando como a IA generativa pode ser integrada de forma sistêmica para transformar a forma como empresas operam, tomam decisões e constroem soluções. Em vez de uma interface isolada, a IA é tratada como uma camada operacional que permite automatizar parcialmente workflows complexos e ampliar a eficiência ao longo de todo o ciclo de produto..
 
 ---
 
-```
-✅ Context Agent      → Análise automática de requisitos
-✅ Discovery Agent    → Identificação de oportunidades  
-✅ Spec Agent        → Geração de especificações
-✅ SDD Agent         → Documentação automática
-```
 # 🏗️ Possíveis Aplicações
 
 O conceito não se limita apenas ao desenvolvimento de produtos.
