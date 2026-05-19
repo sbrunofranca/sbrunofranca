@@ -73,7 +73,14 @@ Conecto **três mundos**:
 ## 🗂️ Meus Projetos
 
 ### 📌 **AI Product Development**
-Framework agentic para construir produtos com IA do zero
+Mais do que um framework técnico, este projeto representa uma visão sobre como a IA Generativa está transformando a forma como empresas operam, tomam decisões e constroem produtos.
+
+A IA deixou de ser apenas uma interface conversacional.  
+Ela está se tornando uma nova camada operacional dentro das organizações.
+
+O objetivo deste framework é explorar como workflows complexos podem ser parcialmente automatizados através de sistemas baseados em IA.
+
+---
 
 ```
 ✅ Context Agent      → Análise automática de requisitos
@@ -81,6 +88,55 @@ Framework agentic para construir produtos com IA do zero
 ✅ Spec Agent        → Geração de especificações
 ✅ SDD Agent         → Documentação automática
 ```
+# 🏗️ Possíveis Aplicações
+
+O conceito não se limita apenas ao desenvolvimento de produtos.
+
+Os mesmos princípios podem ser aplicados em workflows como:
+
+### 📦 Supply Chain
+- planejamento de demanda,
+- análise operacional,
+- automação de decisões logísticas,
+- gestão de exceções.
+
+### 🛒 Procurement
+- análise de fornecedores,
+- geração de RFQs,
+- avaliação automatizada,
+- compliance operacional.
+
+### 🎧 Customer Operations
+- copilots de atendimento,
+- suporte contextual,
+- resolução automatizada,
+- análise de sentimento e qualidade.
+
+### 📊 Analytics & Decision Intelligence
+- geração de insights,
+- investigação automatizada,
+- análise de KPIs,
+- monitoramento operacional.
+
+### ⚖️ Compliance & Governance
+- validação documental,
+- auditoria operacional,
+- análise regulatória,
+- rastreabilidade de decisões.
+
+---
+
+## 🧩 O Que Este Projeto Explora
+
+Este repositório investiga como estruturar sistemas capazes de:
+
+- preservar contexto entre etapas,
+- reduzir fricção operacional,
+- transformar conhecimento em workflows,
+- escalar processos complexos,
+- aumentar eficiência organizacional,
+- conectar negócio, dados e IA.
+
 
 📍 [portfolio-ai-product-development](https://github.com/sbrunofranca/portfolio-ai-product-development)
 
@@ -100,7 +156,7 @@ Copilots inteligentes prontos para produção
 
 📍 [portfolio-ai-products](https://github.com/sbrunofranca/portfolio-ai-products)
 
----
+----
 
 ### 📌 **Analytics & Data Products**
 Plataforma de analytics avançados para decisão em tempo real
