@@ -1,74 +1,195 @@
-# 👋 **Bruno Franca**
+# 🚀 **Bruno Franca** — Product Manager AI
 
-<div align="center">
+<div align=”center”>
 
-![Header](https://img.shields.io/badge/Product%20Manager%20%26%20AI%20Specialist-blue?style=flat&labelColor=1f6feb&color=0969da)
+![Profile Banner](https://img.shields.io/badge/Product%20Manager%20%7C%20AI%20Specialist-blue?style=for-the-badge)
+![Experience](https://img.shields.io/badge/9%20years%20experience-success?style=for-the-badge)
+
+**Construindo produtos inteligentes que resolvem problemas reais de negócio**
+
+[LinkedIn](https://linkedin.com) • [Email](mailto:sbruno.franca@gmail.com) • [GitHub](https://github.com/sbrunofranca)
 
 </div>
 
 ---
 
-## 🎯 **WELCOME TO MY PROFILE**
+## 👋 Bem-vindo ao meu Portfolio
 
-![Product Manager](https://img.shields.io/badge/PRODUCT%20MANAGER-00A86B?style=for-the-badge)
-![AI Specialist](https://img.shields.io/badge/AI%20SPECIALIST-FF6B6B?style=for-the-badge)
+Este repositório demonstra minha trajetória como **Product Manager especializado em IA generativa, analytics e construção de produtos end-to-end**.
 
-**9 years building intelligent products that solve real business problems**
-
----
-
-## 💡 Interests
-
-- 🧠 **Generative AI & LLMs** - Claude, LLaMA, GPT integration
-- 🤖 **Agentic AI Systems** - Multi-agent orchestration and automation
-- 📊 **Product Analytics** - Data-driven decision making with SQL & Python
-- 🚀 **End-to-End Products** - From discovery to production scaling
+<blockquote>
+  <strong>Minha filosofia:</strong><br>
+  “Não é sobre o modelo — é sobre resolver um problema <strong>REAL</strong> de produto com IA.”
+</blockquote>
 
 ---
 
-## 🛠️ Main Skills
+## 🎯 O que Faço
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LANGCHAIN-1F3937?style=for-the-badge&logo=langchain&logoColor=white)
+Conecto **três mundos**:
 
----
-
-## 🚀 Featured Projects
-
-- **[AI Product Development](https://github.com/sbrunofranca/portfolio-ai-product-development)** - Framework for building AI products from scratch. Includes Context Agent, Discovery Agent, Spec Agent, and SDD Agent for automated product analysis and documentation.
-
-- **[AI Products Suite](https://github.com/sbrunofranca/portfolio-ai-products)** - Production-ready copilots for Supply Chain, Analytics, and Enterprise support. Multi-agent orchestration with RAG systems and real-time optimization.
-
-- **[Analytics & Data Products](https://github.com/sbrunofranca/portfolio-analytics-data-products)** - Advanced analytics platform for real-time data-driven decisions with AI insights.
+```
+┌─────────────────────────────────────────────────────┐
+│   Problemas de Negócio Reais                        │
+│          ↓                                           │
+│   Decisões Baseadas em Dados (SQL, Python, etc)    │
+│          ↓                                           │
+│   Implementação com LLMs, RAG & Agentes            │
+│          ↓                                           │
+│   Experiência Funcional para Usuários               │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📈 My Philosophy
+## 💪 Minhas Competências
 
-> **"It's not about the model — it's about solving a REAL business problem with AI."**
+### **🧠 AI & Machine Learning**
+- IA Generativa (Claude, LLaMA, GPT)
+- Sistemas de Agentes Autônomos
+- RAG (Retrieval-Augmented Generation)
+- Fine-tuning e prompt engineering
 
-Each project demonstrates:
-- ✅ Product thinking (problem → solution → impact)
-- ✅ Technical execution (Python, TypeScript, Cloud)
-- ✅ Real business value (ROI, user adoption, scaling)
-- ✅ Production-ready systems (not just POCs)
+### **📊 Product & Analytics**
+- Product discovery & roadmapping
+- SQL, Python, BigQuery, Looker
+- Data-driven decision making
+- Product-market fit validation
+
+### **🏗️ Engenharia & Implementação**
+- Python, FastAPI, Streamlit
+- TypeScript, Node.js
+- Cloud deployment (GCP, AWS)
+- MLOps & monitoring
+
+### **🎯 Business Impact**
+- ROI analysis
+- User research & interviews
+- Go-to-market strategy
+- Scaling products
 
 ---
 
-## 🔗 Connect With Me
+## 🗂️ Meus Projetos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbrunofranca)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbruno.franca@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sbrunofranca)
+### 📌 **AI Product Development**
+Framework agentic para construir produtos com IA do zero
+
+```
+✅ Context Agent      → Análise automática de requisitos
+✅ Discovery Agent    → Identificação de oportunidades  
+✅ Spec Agent        → Geração de especificações
+✅ SDD Agent         → Documentação automática
+```
+
+📍 [portfolio-ai-product-development](https://github.com/sbrunofranca/portfolio-ai-product-development)
 
 ---
 
-<div align="center">
+### 📌 **AI Products Suite**
+Copilots inteligentes prontos para produção
 
-**Building intelligent products at the intersection of Product Management and AI 🚀**
+#### 🚚 **Supply Chain Intelligence**
+- AI Demand Planner (Forecasting + Analytics)
+- Autonomous Supply Chain AI (Multi-agent orchestration)
+- Supply Chain Copilot (Real-time optimization)
+
+#### 🎧 **Enterprise Solutions**
+- Agent Assist Copilot (RAG + Real-time support)
+- Analytics AI Copilot (SQL generation + insights)
+
+📍 [portfolio-ai-products](https://github.com/sbrunofranca/portfolio-ai-products)
+
+---
+
+### 📌 **Analytics & Data Products**
+Plataforma de analytics avançados para decisão em tempo real
+
+📍 [portfolio-analytics-data-products](https://github.com/sbrunofranca/portfolio-analytics-data-products)
+
+---
+
+## 🛠️ Tech Stack
+
+<div align=”center”>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1F3937?style=flat-square&logo=langchain&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+</div>
+
+---
+
+## 📈 O que Este Portfólio Demonstra
+
+- ✅ Capacidade de construir produtos com IA do zero
+- ✅ Pensamento estruturado: problema → hipótese → solução → impacto
+- ✅ Execução técnica em Python, TypeScript e cloud
+- ✅ Sistemas prontos para produção (RAG, Agents, Copilots)
+- ✅ Tradução de problemas de negócio em soluções técnicas
+- ✅ Visão de product-market fit e escalabilidade
+
+---
+
+## 💡 Principais Projetos
+
+### 🧠 **Agent Assist Copilot** (RAG + Groq + Streamlit)
+
+Assistente inteligente para suporte ao cliente que reduz carga de tickets humanos.
+
+**Stack:**
+- RAG com base de conhecimento interna
+- LLM (Groq + LLaMA 3.1)
+- Interface em Streamlit
+- Pipeline modular em Python
+
+**Impacto:** -30% custos de suporte, +25% CSAT
+
+---
+
+## 🎓 Metodologia
+
+Cada projeto segue o ciclo completo de produto:
+
+```
+1️⃣ Discovery  → Entender o problema real
+2️⃣ Ideation   → Design de solução com IA
+3️⃣ Build      → MVP com LLMs/Agents
+4️⃣ Validate   → Teste com usuários reais
+5️⃣ Scale      → Deploy em produção
+```
+
+---
+
+## 🔮 O Que Vem Depois
+
+🚀 **Em desenvolvimento:**
+- Sistemas de orquestração de agentes em escala
+- Frameworks de RAG otimizados para produção
+- Multi-agent workflows com reasoning avançado
+- Plataforma de analytics em tempo real
+
+---
+
+## 📞 Vamos Conversar?
+
+Interessado em:
+- 💼 Oportunidades de colaboração
+- 🤝 Parcerias em AI Products
+- 🎯 Consultoria em product management
+- 💡 Discussões sobre agentic AI
+
+<div align=”center”>
+
+**[🔗 LinkedIn](https://linkedin.com)** • **[📧 Email](mailto:sbruno.franca@gmail.com)** • **[🐙 GitHub](https://github.com/sbrunofranca)**
+
+---
+
+<sub>Construindo o futuro com IA, um agente de cada vez 🤖</sub>
 
 </div>
