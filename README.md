@@ -61,59 +61,34 @@ Possuo experiência prática em AI Agents, Prompt Engineering, LLMs e produtos c
 
 ## 🗂️ Meus Projetos
 
-### 📌 **AI Product Development**
-Este projeto foi concebido a partir do ciclo de desenvolvimento de produto, explorando como a IA generativa pode ser integrada de forma sistêmica para transformar a forma como empresas operam, tomam decisões e constroem soluções. Em vez de uma interface isolada, a IA é tratada como uma camada operacional que permite automatizar parcialmente workflows complexos e ampliar a eficiência ao longo de todo o ciclo de produto..
+### 📌 AI Product Development
+
+Este projeto explora como a IA generativa pode ser integrada ao ciclo de desenvolvimento de produto de forma sistêmica, não como uma interface isolada, mas como uma camada operacional capaz de transformar a execução de workflows complexos.
+
+O objetivo é entender como sistemas baseados em IA podem estruturar, conectar e automatizar etapas de processos de negócio, reduzindo fricção operacional e aumentando eficiência ao longo do ciclo de produto.
 
 ---
 
-#### 🏗️ Possíveis Aplicações
+## 🧩 Aplicações em Domínios Operacionais
 
-O conceito não se limita apenas ao desenvolvimento de produtos.
-
-Os mesmos princípios podem ser aplicados em workflows como:
+Embora o foco seja produto, os princípios podem ser aplicados em diferentes contextos:
 
 ### 📦 Supply Chain
-- planejamento de demanda,
-- análise operacional,
-- automação de decisões logísticas,
-- gestão de exceções.
-
-### 🛒 Procurement
-- análise de fornecedores,
-- geração de RFQs,
-- avaliação automatizada,
-- compliance operacional.
+Automação de planejamento de demanda, gestão de exceções e suporte à tomada de decisão operacional.
 
 ### 🎧 Customer Operations
-- copilots de atendimento,
-- suporte contextual,
-- resolução automatizada,
-- análise de sentimento e qualidade.
-
-### 📊 Analytics & Decision Intelligence
-- geração de insights,
-- investigação automatizada,
-- análise de KPIs,
-- monitoramento operacional.
-
-### ⚖️ Compliance & Governance
-- validação documental,
-- auditoria operacional,
-- análise regulatória,
-- rastreabilidade de decisões.
+Uso de copilots para atendimento, resolução automatizada de demandas e análise de qualidade de interação.
 
 ---
 
-## 🧩 O Que Este Projeto Explora
+## 🧠 Objetivo do Projeto
 
-Este repositório investiga como estruturar sistemas capazes de:
+Investigar como desenhar sistemas de IA capazes de:
 
-- preservar contexto entre etapas,
-- reduzir fricção operacional,
-- transformar conhecimento em workflows,
-- escalar processos complexos,
-- aumentar eficiência organizacional,
-- conectar negócio, dados e IA.
+- estruturar e manter contexto ao longo de fluxos de trabalho
+- reduzir dependência de execução manual em processos complexos
+- transformar conhecimento operacional em automação inteligente
+- conectar produto, dados e IA em um único sistema integrado
 
 
 📍 [portfolio-ai-product-development](https://github.com/sbrunofranca/portfolio-ai-product-development)
@@ -137,7 +112,7 @@ Copilots inteligentes prontos para produção
 ----
 
 ### 📌 **Analytics & Data Products**
-Plataforma de analytics avançados para decisão em tempo real
+  Em Construção.
 
 📍 [portfolio-analytics-data-products](https://github.com/sbrunofranca/portfolio-analytics-data-products)
 
