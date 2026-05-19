@@ -5,7 +5,7 @@
 ![Profile Banner](https://img.shields.io/badge/Product%20Manager%20%7C%20AI%20Specialist-blue?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/9%20years%20experience-success?style=for-the-badge)
 
-Sou Product Manager especialista em **GenAI, AI Agents e Data Products**, com experiência na liderança de iniciativas de inteligência artificial, modelos preditivos, Data Visualization e CRM. Atuo na construção e evolução de produtos centrados no usuário, conectando tecnologia, dados, negócio e design para criar soluções escaláveis, eficientes e orientadas a impacto, com foco na geração de valor para clientes e para o negócio.
+Sou Product Manager especialista em **GenAI, AI Agents e Data Products**, com experiência na liderança de iniciativas de inteligência artificial, modelos preditivos, Data Visualization e CRM. Atuo na construção e evolução de produtos centrados no usuário, conectando tecnologia, dados, negócio e design para criar soluções escaláveis, com foco na geração de valor para clientes e para o negócio.
 
 Possuo experiência prática em AI Agents, Prompt Engineering, LLMs e produtos conversacionais, além de forte atuação na gestão de stakeholders cross-funcionais e na condução end-to-end de produtos — da estratégia e discovery até a entrega e evolução em produção.
 
@@ -17,10 +17,10 @@ Possuo experiência prática em AI Agents, Prompt Engineering, LLMs e produtos c
 
 ## 👋 Bem-vindo ao meu Portfolio
 
-**Product Manager especializado em IA generativa, analytics e produtos end-to-end**. Foco em aplicar IA para ganho de produtividade, automação de fluxos e geração de valor de negócio, com experiência prática na criação e validação de POCs e agentes. Abordagem hands-on, unindo visão de produto, negócios e capacidade técnica para prototipar e implementar soluções.
+ Foco em aplicar IA para ganho de produtividade, automação de fluxos e geração de valor de negócio, com experiência prática na criação e validação de POCs e agentes. Abordagem hands-on, unindo visão de produto, negócios e capacidade técnica para prototipar e implementar soluções.
 
 <blockquote>
-  “IA só faz sentido quando resolve um problema de produto e gera impacto <strong>MENSURÁVEL</strong>. 
+  “IA só faz sentido quando resolve um problema <strong>REAL</strong> e gera impacto <strong>MENSURÁVEL</strong>. 
 </blockquote>
 
 ---
